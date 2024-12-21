@@ -1,3 +1,3 @@
-# 100DaysofCode
+# 100 Days of Code
 
 Day 1: Variables, Types, Integers
