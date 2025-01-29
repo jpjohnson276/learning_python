@@ -1,4 +1,4 @@
-# 100 Days of Code
+Learning Python
 
 Day 1: Variables, Types, Integers \
 Day 2: Introducing lists \
